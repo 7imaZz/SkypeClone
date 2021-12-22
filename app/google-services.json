@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793198601184",
+    "project_id": "skype-clone-f9c84",
+    "storage_bucket": "skype-clone-f9c84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793198601184:android:11a22c76896e1ca7344185",
+        "android_client_info": {
+          "package_name": "com.tawajood.skypeclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793198601184-0diqa6ijs04t1fudb3dikvo3f4b52tgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP34citTngCPLK6Nqf2a5lIOch7i-M1m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793198601184-0diqa6ijs04t1fudb3dikvo3f4b52tgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
